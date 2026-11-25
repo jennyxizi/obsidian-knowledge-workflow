@@ -1,6 +1,10 @@
 # Obsidian 知识库工作流
 
-用 AI 搭建或整理 Obsidian 知识库，让它能根据你的背景、项目和决策，回答实际工作中的问题。支持直接复制提示词，也可加载完整技能。
+**把 Obsidian CEO Steph Ango（kepano）自己使用 Obsidian 的方法，融入你的知识库工作流。**
+
+这个技能把他分享的做法变成 AI 可以执行的步骤：从少量笔记起步，用双向链接和常青笔记连接项目与判断，再通过定期回顾把有用的结论写回去。你可以用它从零搭建知识库、整理 AI 历史对话，或优化现有笔记。复制提示词即可让你的 AI 开始。
+
+[Steph Ango 的原文：How I use Obsidian](https://stephango.com/vault)
 
 ## 适用场景
 
